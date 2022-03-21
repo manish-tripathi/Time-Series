@@ -1,6 +1,6 @@
 ---
 title: "Forcasting Analysis Individual Assignment"
-author: "Manish Tripathi 12010079"
+author: "Manish Tripathi"
 date: "`r Sys.Date()`"
 output:
   word_document: default
